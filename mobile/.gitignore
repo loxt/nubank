@@ -10,8 +10,8 @@ npm-debug.*
 web-build/
 web-report/
 
-# macOS
-.DS_Store
-
 .idea
 yarn.lock
+
+# macOS
+.DS_Store
