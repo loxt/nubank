@@ -41,6 +41,7 @@ module.exports = {
     'func-names': 'off',
     'no-use-before-define': 'off',
     'no-underscore-dangle': 'off',
-    'camelcase': 'off'
+    'camelcase': 'off',
+    'no-unused-vars': 'off'
   },
 };
